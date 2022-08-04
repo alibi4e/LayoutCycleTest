@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LayoutCycleTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LayoutCycleTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
